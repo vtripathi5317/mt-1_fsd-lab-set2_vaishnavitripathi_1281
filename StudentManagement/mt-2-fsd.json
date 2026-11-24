@@ -1,0 +1,13 @@
+{
+  "name": "student-management-api",
+  "version": "1.0.0",
+  "description": "Set B - Student Record Management REST API (Node.js + Express, in-memory storage)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
